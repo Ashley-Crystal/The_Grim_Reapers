@@ -10,7 +10,7 @@ Features:
   3. Donors and Volunteers can even post essential and urgent matters so that at the time of emergency everyone can find a helping hand.
 
 
-FrontEND- The UI/UX of the application is design and built using ReactJS commonly referred to as React, is a JavaScript library that allows developers to build user               interfaces (UIs) for web applications.
+FrontEND- The UI/UX of the application is designed and built using ReactJS commonly referred to as React, is a JavaScript library that allows developers to build user               interfaces (UIs) for web applications.
 
 
 BackEND- The backend of the application is running on NodeExpressServer  is a web server framework for Node.js. It provides a set of features and tools to create web               applications and APIs, such as routing, middleware support, template engines, and more.
