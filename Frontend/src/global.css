@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-kanit: Kanit;
+  --font-montserrat: Montserrat;
+  --font-nunito-sans: "Nunito Sans";
+  --font-courgette: Courgette;
+
+  /* font sizes */
+  --font-size-29xl: 3rem;
+  --font-size-11xl: 1.88rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-xl: 1.25rem;
+  --font-size-36xl: 3.44rem;
+  --font-size-27xl: 2.88rem;
+  --font-size-26xl: 2.81rem;
+  --font-size-13xl: 2rem;
+  --font-size-45xl: 4rem;
+  --font-size-base: 1rem;
+  --font-size-24xl: 2.69rem;
+  --font-size-17xl: 2.25rem;
+
+  /* Colors */
+  --color-paleturquoise: #c2f5fa;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-aliceblue: #e3ebf2;
+  --color-green: #008000;
+  --color-rosybrown: #bd9c9c;
+  --color-pink-100: #ffc0cb;
+  --color-pink-200: #f5bdbd;
+  --color-gainsboro: #d9d9d9;
+  --color-blue: #0000ff;
+  --color-lightsteelblue: #a7d0f4;
+
+  /* Gaps */
+  --gap-12xs: 0.06rem;
+
+  /* Paddings */
+  --padding-7xl: 1.63rem;
+  --padding-2xs: 0.69rem;
+  --padding-4xl: 1.44rem;
+  --padding-3xl: 1.38rem;
+  --padding-mid: 1.06rem;
+
+  /* border radiuses */
+  --br-4xl: 23px;
+  --br-2xs: 11px;
+  --br-5xs: 8px;
+  --br-sm: 14px;
+  --br-xl: 20px;
+  --br-64xl: 83px;
+}
