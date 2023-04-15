@@ -1,0 +1,118 @@
+.register-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 94.5rem;
+  height: 6.25rem;
+}
+.home3 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.home2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.63rem;
+  left: 57.63rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.goodwill-icon-11 {
+  position: absolute;
+  top: 1rem;
+  left: 2.44rem;
+  width: 23.44rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.events1,
+.login,
+.team2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.login,
+.team2 {
+  top: 2.13rem;
+  left: 85.31rem;
+}
+.team2 {
+  top: 2rem;
+  left: 77rem;
+}
+.events1 {
+  top: 1.88rem;
+  left: 65.94rem;
+}
+.image-3-icon,
+.register-item {
+  position: absolute;
+  top: 18.25rem;
+}
+.register-item {
+  left: 14.25rem;
+  border-radius: 144px;
+  background-color: var(--color-white);
+  width: 66.94rem;
+  height: 35.75rem;
+}
+.image-3-icon {
+  left: 40.06rem;
+  width: 14.44rem;
+  height: 13.63rem;
+  object-fit: cover;
+}
+.registration-completed-success {
+  margin: 0;
+  position: absolute;
+  top: 34.13rem;
+  left: 10.06rem;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 68.88rem;
+  height: 6.31rem;
+}
+.registration-id-xxxxxxxxx0923 {
+  position: relative;
+}
+.reg-id {
+  margin: 0;
+  position: absolute;
+  top: 42.69rem;
+  left: 28.13rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-21xl);
+  font-family: inherit;
+}
+.register {
+  position: relative;
+  background-color: var(--color-paleturquoise);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

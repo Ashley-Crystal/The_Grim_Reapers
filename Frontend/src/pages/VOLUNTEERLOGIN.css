@@ -1,0 +1,261 @@
+.volunteer-login-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 94.5rem;
+  height: 6.25rem;
+}
+.logout3 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.event1,
+.home4,
+.logout2,
+.team4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.logout2,
+.team4 {
+  top: 1.88rem;
+  left: 85.31rem;
+}
+.team4 {
+  top: 1.75rem;
+  left: 77rem;
+}
+.event1,
+.home4 {
+  top: 1.63rem;
+  left: 67.31rem;
+}
+.home4 {
+  left: 57.63rem;
+}
+.goodwill-icon-12 {
+  position: absolute;
+  top: 1rem;
+  left: 2.44rem;
+  width: 23.44rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.volunteer-login-inner,
+.volunteer-login-item {
+  position: absolute;
+  left: 15.94rem;
+  width: 66.94rem;
+  height: 16.13rem;
+}
+.volunteer-login-item {
+  border: 0;
+  background-color: var(--color-pink-100);
+  top: 16.25rem;
+  border-radius: var(--br-4xl);
+}
+.volunteer-login-inner {
+  top: 34.13rem;
+}
+.blood-donation-xyz,
+.food-donation- {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-36xl);
+  position: absolute;
+  top: 18.75rem;
+  left: 23.81rem;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 57.06rem;
+  height: 6.31rem;
+}
+.food-donation- {
+  top: 37.31rem;
+}
+.forum-child,
+.forum1 {
+  position: relative;
+  width: 14.75rem;
+  height: 5.5rem;
+  flex-shrink: 0;
+}
+.forum1 {
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 13.31rem;
+  height: 4.5rem;
+  margin-top: -5.37rem;
+}
+.forum {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 25.06rem;
+  left: 20.19rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.forum2 {
+  position: relative;
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.forum11 {
+  padding: 0.56rem var(--padding-2xs);
+  top: 43.63rem;
+  left: 20.19rem;
+}
+.forum11,
+.register1,
+.resgister1 {
+  cursor: pointer;
+  border: 0;
+  background-color: var(--color-green);
+  position: absolute;
+  border-radius: var(--br-4xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.register1 {
+  padding: var(--padding-2xs) var(--padding-4xl);
+  top: 25.06rem;
+  left: 37.5rem;
+}
+.resgister1 {
+  padding: 0.5rem 1.31rem;
+  top: 43.63rem;
+  left: 37.63rem;
+}
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-rosybrown);
+  position: absolute;
+  top: -109.81rem;
+  left: 12.69rem;
+  border-radius: var(--br-2xs);
+  width: 50.69rem;
+  height: 5.31rem;
+}
+.details1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-4xl);
+  background-color: var(--color-green);
+  top: 25.06rem;
+  left: 60.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.details1,
+.details11,
+.rectangle-icon {
+  position: absolute;
+  border-radius: var(--br-4xl);
+}
+.details11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0.75rem var(--padding-7xl);
+  background-color: var(--color-green);
+  top: 43.63rem;
+  left: 59.94rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-icon {
+  top: 8.63rem;
+  left: 38.94rem;
+  width: 21rem;
+  height: 7rem;
+}
+.events4 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-36xl);
+  position: absolute;
+  top: 10.06rem;
+  left: 43.19rem;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 38.56rem;
+  height: 4.88rem;
+}
+.rectangle-footer {
+  position: absolute;
+  top: 57.31rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 94.5rem;
+  height: 4.06rem;
+}
+.copyright-2023 {
+  position: absolute;
+  top: 58.94rem;
+  left: 82.06rem;
+  display: inline-block;
+  width: 23.25rem;
+  height: 3.38rem;
+}
+.rectangle-div {
+  position: absolute;
+  top: 124.25rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 94.5rem;
+  height: 3.19rem;
+}
+.copyright-20231,
+.volunteer-login {
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.copyright-20231 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 125.44rem;
+  left: 82rem;
+  display: inline-block;
+  width: 23.25rem;
+  height: 2.63rem;
+}
+.volunteer-login {
+  position: relative;
+  background-color: var(--color-paleturquoise);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+}

@@ -1,0 +1,121 @@
+.details-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 94.5rem;
+  height: 6.25rem;
+}
+.logout,
+.team {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.63rem;
+  left: 85.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.team {
+  top: 1.75rem;
+  left: 77rem;
+}
+.events {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.event,
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.63rem;
+  left: 67.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  left: 57.63rem;
+}
+.goodwill-icon-1 {
+  position: absolute;
+  top: 1rem;
+  left: 2.44rem;
+  width: 23.44rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.details-item {
+  border: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 8.94rem;
+  left: 30.44rem;
+  border-radius: var(--br-4xl);
+  width: 33.63rem;
+  height: 6.56rem;
+}
+.event-details {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-29xl);
+  position: absolute;
+  top: 10.44rem;
+  left: 37.19rem;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 38.44rem;
+  height: 4.25rem;
+}
+.details-inner {
+  border: 0;
+  background-color: #eaecee;
+  position: absolute;
+  top: 17.06rem;
+  left: 9.69rem;
+  border-radius: 30px;
+  width: 78.13rem;
+  height: 38.88rem;
+}
+.themes {
+  margin: 0;
+}
+.community-connect-an {
+  margin-bottom: false;
+}
+.community-connect-an-online-p {
+  margin: 0;
+  padding-left: 1.32rem;
+}
+.themes-community-connect-container {
+  position: absolute;
+  top: 18.25rem;
+  left: 11.38rem;
+  display: inline-block;
+  width: 74.75rem;
+  height: 37.25rem;
+}
+.details {
+  position: relative;
+  background-color: var(--color-paleturquoise);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}

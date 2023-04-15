@@ -1,0 +1,261 @@
+.login-child {
+  position: absolute;
+  top: 14.75rem;
+  left: 59.13rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 33.25rem;
+  height: 35.75rem;
+}
+.login-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 94.5rem;
+  height: 6.25rem;
+}
+.login7 {
+  position: relative;
+}
+.login6 {
+  position: absolute;
+  top: 1.63rem;
+  left: 85.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.team15 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.event6,
+.home14,
+.team14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.team14 {
+  top: 1.75rem;
+  left: 77rem;
+}
+.event6,
+.home14 {
+  top: 1.63rem;
+  left: 67.31rem;
+}
+.home14 {
+  left: 57.63rem;
+}
+.goodwill-icon-17,
+.login-inner {
+  position: absolute;
+  top: 1rem;
+  left: 2.44rem;
+  width: 23.44rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.login-inner {
+  top: 14.75rem;
+  left: 3.31rem;
+  border-radius: var(--br-sm);
+  width: 52.5rem;
+  height: 39.38rem;
+}
+.email1,
+.password1 {
+  border: 0;
+  font-family: var(--font-kanit);
+  font-size: var(--font-size-24xl);
+  background-color: transparent;
+  position: absolute;
+  top: 23.5rem;
+  left: 63.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.password1 {
+  top: 30.19rem;
+}
+.log-in,
+.login-button-child {
+  position: relative;
+  flex-shrink: 0;
+}
+.login-button-child {
+  border-radius: var(--br-4xl);
+  background-color: var(--color-blue);
+  width: 12.31rem;
+  height: 3.94rem;
+}
+.log-in {
+  font-size: var(--font-size-24xl);
+  font-family: var(--font-kanit);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 13.5rem;
+  height: 4.75rem;
+  margin-top: -4rem;
+}
+.login-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 43.19rem;
+  left: 63.19rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.dont-have-an {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 12.69rem;
+  flex-shrink: 0;
+}
+.signup1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 43.69rem;
+  left: 76.81rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.login-child1,
+.login-child2 {
+  position: absolute;
+  top: 14.75rem;
+  left: 59.13rem;
+  border-radius: var(--br-xl);
+  width: 33.25rem;
+}
+.login-child1 {
+  background-color: var(--color-gainsboro);
+  height: 7.19rem;
+}
+.login-child2 {
+  height: 7.5rem;
+}
+.login8 {
+  position: absolute;
+  top: 16.44rem;
+  left: 71.5rem;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-kanit);
+  display: inline-block;
+  width: 10.56rem;
+  height: 4.06rem;
+}
+.listbox-main1 {
+  position: absolute;
+  height: 20.76%;
+  width: 90.91%;
+  top: 9.69%;
+  right: 4.55%;
+  bottom: 69.55%;
+  left: 4.55%;
+}
+.item-11,
+.item-21 {
+  border: 0;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-base);
+  background-color: var(--color-white);
+  align-self: stretch;
+  position: relative;
+  height: 2.75rem;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.clip-list1,
+.dropdown-list1 {
+  position: absolute;
+  overflow: hidden;
+}
+.dropdown-list1 {
+  width: 90.91%;
+  top: 4.25rem;
+  right: 4.55%;
+  left: 4.55%;
+  border-radius: var(--br-5xs);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  height: 0.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-12xs);
+  opacity: 0;
+}
+.clip-list1 {
+  height: 90.31%;
+  width: 100%;
+  top: 11.5%;
+  right: 0.97%;
+  bottom: -1.82%;
+  left: -0.97%;
+}
+.listbox-component1 {
+  position: absolute;
+  top: 34.69rem;
+  left: 62.25rem;
+  width: 26.69rem;
+  height: 19.19rem;
+}
+.login-child3 {
+  position: absolute;
+  top: 57.31rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 94.5rem;
+  height: 4.06rem;
+}
+.copyright-20235 {
+  position: absolute;
+  top: 58.81rem;
+  left: 82rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 23.25rem;
+  height: 3.38rem;
+}
+.login5 {
+  position: relative;
+  background-color: var(--color-pink-100);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

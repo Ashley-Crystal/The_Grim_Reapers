@@ -1,0 +1,261 @@
+.signup-child,
+.signup-item {
+  position: absolute;
+  top: 13.75rem;
+  left: 58.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 33.56rem;
+  height: 39.38rem;
+}
+.signup-item {
+  top: 13.69rem;
+  background-color: var(--color-gainsboro);
+  height: 6.88rem;
+}
+.signup-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 94.5rem;
+  height: 6.25rem;
+}
+.login3 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.event5,
+.home12,
+.login2,
+.team12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+.login2,
+.team12 {
+  top: 1.63rem;
+  left: 85.31rem;
+  align-items: center;
+  justify-content: center;
+}
+.team12 {
+  top: 1.75rem;
+  left: 77rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.event5,
+.home12 {
+  top: 1.63rem;
+  left: 67.31rem;
+  align-items: center;
+  justify-content: center;
+}
+.home12 {
+  left: 57.63rem;
+}
+.goodwill-icon-16,
+.signup-child1 {
+  position: absolute;
+  top: 1rem;
+  left: 2.44rem;
+  width: 23.44rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.signup-child1 {
+  top: 13.75rem;
+  left: 3.5rem;
+  border-radius: var(--br-sm);
+  width: 52.5rem;
+  height: 39.38rem;
+}
+.email,
+.name,
+.password {
+  border: 0;
+  font-family: var(--font-kanit);
+  font-size: var(--font-size-24xl);
+  background-color: transparent;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.name,
+.password {
+  top: 33.06rem;
+  left: 61.75rem;
+}
+.password {
+  top: 28.25rem;
+  left: 61.63rem;
+}
+.email {
+  top: 23.38rem;
+  left: 61.69rem;
+}
+.signup-button-child {
+  position: relative;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-blue);
+  width: 12.31rem;
+  height: 3.94rem;
+  flex-shrink: 0;
+}
+.sign-up1 {
+  margin: 0;
+}
+.sign-up {
+  position: relative;
+  font-size: var(--font-size-24xl);
+  font-family: var(--font-kanit);
+  color: var(--color-white);
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 13.5rem;
+  height: 4.75rem;
+  flex-shrink: 0;
+  margin-top: -4rem;
+}
+.signup-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45.38rem;
+  left: 62.31rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.already-have-an {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 12.69rem;
+  flex-shrink: 0;
+}
+.login4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45.75rem;
+  left: 76.81rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.sign-up2,
+.signup-child2 {
+  position: absolute;
+  height: 4.06rem;
+}
+.sign-up2 {
+  top: 15.06rem;
+  left: 69rem;
+  display: inline-block;
+  width: 13rem;
+}
+.signup-child2 {
+  top: 57.38rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 94.5rem;
+}
+.copyright-20234 {
+  position: absolute;
+  top: 58.88rem;
+  left: 82rem;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: inline-block;
+  width: 23.25rem;
+  height: 3.38rem;
+}
+.listbox-main {
+  position: absolute;
+  height: 20.76%;
+  width: 90.91%;
+  top: 9.69%;
+  right: 4.55%;
+  bottom: 69.55%;
+  left: 4.55%;
+}
+.item-1 {
+  border: 0;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-base);
+  background-color: var(--color-white);
+  align-self: stretch;
+  position: relative;
+  height: 2.75rem;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.clip-list,
+.dropdown-list {
+  position: absolute;
+  overflow: hidden;
+}
+.dropdown-list {
+  width: 90.91%;
+  top: 4.25rem;
+  right: 4.55%;
+  left: 4.55%;
+  border-radius: var(--br-5xs);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  height: 0.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-12xs);
+  opacity: 0;
+}
+.clip-list {
+  height: 90.31%;
+  width: 100%;
+  top: 11.5%;
+  right: 0.97%;
+  bottom: -1.82%;
+  left: -0.97%;
+}
+.listbox-component {
+  position: absolute;
+  top: 37.06rem;
+  left: 61rem;
+  width: 28.5rem;
+  height: 19.19rem;
+}
+.signup {
+  position: relative;
+  background-color: var(--color-pink-200);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-kanit);
+}

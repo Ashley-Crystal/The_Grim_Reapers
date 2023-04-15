@@ -1,0 +1,177 @@
+.organise-an-event-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 94.5rem;
+  height: 6.25rem;
+}
+.logout7 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.event3,
+.home8,
+.logout6,
+.team8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.logout6,
+.team8 {
+  top: 1.63rem;
+  left: 85.31rem;
+}
+.team8 {
+  top: 1.75rem;
+  left: 77rem;
+}
+.event3,
+.home8 {
+  top: 1.63rem;
+  left: 67.31rem;
+}
+.home8 {
+  left: 57.63rem;
+}
+.goodwill-icon-14 {
+  position: absolute;
+  top: 1rem;
+  left: 2.44rem;
+  width: 23.44rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.urgent2 {
+  border: 0;
+  background-color: transparent;
+  font-size: var(--font-size-26xl);
+  position: absolute;
+  top: 48.31rem;
+  left: 16.94rem;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 19.5rem;
+  height: 4.44rem;
+}
+.details4,
+.submit1,
+.urgent2 {
+  font-family: var(--font-inter);
+}
+.details4 {
+  border: 0;
+  font-size: var(--font-size-13xl);
+  background-color: var(--color-rosybrown);
+  position: absolute;
+  top: 22.31rem;
+  left: 12.69rem;
+  border-radius: var(--br-2xs);
+  width: 60rem;
+  height: 23.38rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.75rem var(--padding-3xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.submit1 {
+  position: relative;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  text-align: left;
+}
+.submit,
+.title {
+  border: 0;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.submit {
+  cursor: pointer;
+  padding: var(--padding-mid) 0.63rem var(--padding-mid) 0.88rem;
+  background-color: var(--color-green);
+  top: 47.81rem;
+  left: 61.13rem;
+  border-radius: var(--br-4xl);
+  width: 11.56rem;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.title {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-11xl);
+  background-color: transparent;
+  top: 15.75rem;
+  left: 12.69rem;
+  flex-direction: column;
+}
+.organise-an-event-item {
+  position: absolute;
+  top: 57.31rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 94.5rem;
+  height: 4.06rem;
+}
+.copyright-20232 {
+  position: absolute;
+  top: 58.81rem;
+  left: 82rem;
+  display: inline-block;
+  width: 23.25rem;
+  height: 3.38rem;
+}
+.organise-an-event-inner {
+  border: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 7.56rem;
+  left: 26.69rem;
+  border-radius: 91px;
+  width: 43.19rem;
+  height: 6.94rem;
+}
+.create-your-event {
+  position: absolute;
+  top: 8.88rem;
+  left: 30.19rem;
+  font-size: var(--font-size-36xl);
+  display: inline-block;
+  width: 39.19rem;
+  height: 9.13rem;
+}
+.organise-an-event-child1 {
+  cursor: pointer;
+  position: absolute;
+  top: 48.31rem;
+  left: 12.69rem;
+  background-color: var(--color-gainsboro);
+  width: 2.94rem;
+  height: 2.69rem;
+}
+.organise-an-event {
+  position: relative;
+  background-color: #dcfafd;
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
